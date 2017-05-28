@@ -27,8 +27,7 @@ Phishing Assessment: "Caixa Econômica Federal"
 http://consultameufgts-gov.16mb.com/fgts/m/internet.dosegmento=CIDADAO55529apc/processa.php
 <br> Com o seguinte JS:
 
-```
-<script language="JavaScript"> 
+~~~<script language="JavaScript"> 
 window.location="http://servicossociais.caixa.gov.br/internet.do?segmento=CIDADAO01&produto=FGTS"; 
 </script>
-```
+~~~

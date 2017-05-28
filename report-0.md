@@ -22,7 +22,9 @@ Phishing Assessment: "Caixa Econômica Federal"
 **OBS** Após inserção de dados para login, o phish me redireciona para:
 http://consultameufgts-gov.16mb.com/fgts/m/internet.dosegmento=CIDADAO55529apc/processa.php
 Com o seguinte JS
-*<*script language="JavaScript"> 
-window.location="http://servicossociais.caixa.gov.br/internet.do?segmento=CIDADAO01&produto=FGTS"; 
-< _/script*_> _
 
+```
+<script language="JavaScript"> 
+window.location="http://servicossociais.caixa.gov.br/internet.do?segmento=CIDADAO01&produto=FGTS"; 
+</script>
+```

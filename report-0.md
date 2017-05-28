@@ -1,11 +1,10 @@
 Phishing Assessment: "Caixa Econômica Federal"
 ===================
 
+**Phishtank** https://www.phishtank.com/phish_detail.php?phish_id=5024023 
+**URL** http://consultameufgts-gov.16mb.com/fgts/d/internet.dosegmento=CIDADAO3751apc/#
+**Source code** https://pastebin.com/raw/ybu8FjQV 
 
-**Phishtank** https://www.phishtank.com/phish_detail.php?phish_id=5024023 <br>
-**URL**http://consultameufgts-gov.16mb.com/fgts/d/internet.dosegmento=CIDADAO3751apc/# <br>
-**Source code** https://pastebin.com/raw/ybu8FjQV <br>
-</br> </br> </br>
 
 **Index do phish** 
 
@@ -27,7 +26,8 @@ Phishing Assessment: "Caixa Econômica Federal"
 http://consultameufgts-gov.16mb.com/fgts/m/internet.dosegmento=CIDADAO55529apc/processa.php
 <br> Com o seguinte JS:
 
-~~~<script language="JavaScript"> 
+~~~
+ <script language="JavaScript"> 
 window.location="http://servicossociais.caixa.gov.br/internet.do?segmento=CIDADAO01&produto=FGTS"; 
 </script>
 ~~~
